@@ -10,11 +10,11 @@ import java.util.Scanner;
  * @author LENOVO
  */
 public class Main {
-    public static void main(String[] args) {
+    public static void main(String[] args) {       
         System.out.print("\nCALCULOS ESTADISTICOS\n");
         Scanner teclado = new Scanner(System.in);
         boolean error;
-        int m, n;
+        int m, n;        
         do {
             try {   
                 error = false;
